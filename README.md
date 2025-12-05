@@ -6,5 +6,5 @@ It is for apply learned concept
 learning working of the terminal
 
 # Brach feature testing 
-this is the main branch .
+this is the main branch  ,
 
